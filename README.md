@@ -1,6 +1,6 @@
 ### Oie! Eu sou a Mariana Zubi
 
-- 🦾 Hoje trabalho na área de Managed Service
+- 🦾 Estagiároa na área de Managed Service na SoftwareOne
 - 🧠 Atualmente estou estudando HTML e CSS
 - 📬 Contate-me: mariana_zubi@hotmail.com
 - 👩🏽‍💻 Pronouns: ela/dela
