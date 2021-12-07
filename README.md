@@ -1,11 +1,11 @@
 ### Oie! Eu sou a Mariana Zubi
 
-- 🦾 Estagiároa na área de Managed Service na SoftwareOne
+- 🦾 Estagiária na área de Managed Service na SoftwareOne
 - 🧠 Atualmente estou estudando HTML e CSS
 - 📬 Contate-me: mariana_zubi@hotmail.com
 - 👩🏽‍💻 Pronouns: ela/dela
 
-<div>
+<div align="center>
   <a href="https://github.com/marianazubi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianazubi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianazubi&layout=compact&langs_count=7&theme=dracula"/>
