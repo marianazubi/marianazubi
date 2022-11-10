@@ -1,7 +1,7 @@
 ### Oie! Eu sou a Mariana Zubi
 
-- 🦾 Estagiária na área de Managed Service na SoftwareOne
-- 🧠 Atualmente estudando HTML e CSS
+- 🦾 Estagiária na área de Projetos na SoftwareOne
+- 🧠 Atualmente estudando Power BI
 - 📬 Contate-me: mariana_zubi@hotmail.com
 - 👩🏽‍💻 Pronouns: ela/dela
 
